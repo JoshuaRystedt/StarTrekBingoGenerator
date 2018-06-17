@@ -1,5 +1,5 @@
 # Star Trek Bingo Generator
-[Very] simple Python script to randomly generate bingo cards to play while watching Star Trek the Original Series.
+*Very* simple Python script to randomly generate bingo cards to play while watching Star Trek the Original Series.
 
 Bingo cards usually have 25 spaces with the center space a "free" space.  
 
